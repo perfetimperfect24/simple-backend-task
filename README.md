@@ -1,6 +1,4 @@
-# Gen-Y-Backend-Task
 
-#### The API is 100% complete as requested
 
 ## API
 
